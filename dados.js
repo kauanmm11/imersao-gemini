@@ -6,7 +6,8 @@ let dados = [
         links: [
             "https://pt.wikipedia.org/wiki/Alanzoka",
             "https://www.twitch.tv/alanzoka"
-        ]
+        ],
+        tags:"alan scar"
     },
     {
         titulo: "Yoda",
@@ -15,7 +16,8 @@ let dados = [
         links: [
             "https://pt.wikipedia.org/wiki/YoDa",
             "https://www.twitch.tv/yoda"
-        ]
+        ],
+        tags:"lol profissonal"
     },
     {
         titulo: "Rakin",
@@ -24,6 +26,7 @@ let dados = [
         links: [
             "https://ordemparanormal.fandom.com/wiki/Rakin",
             "https://www.twitch.tv/rakin"
-        ]
+        ],
+        tags:"lol profissonal"
     }
 ];
