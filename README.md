@@ -1,6 +1,8 @@
 # imersao-gemini
  Evento Alura
 
+ Esse projeto eu fiz olhando as aulas da imersão gemini, Aprendi muito com esse evento.
+
 # Projeto: Influenciadores Gamers Brasileiros
 
 Este projeto é uma aplicação web simples que permite buscar informações sobre influenciadores gamers brasileiros populares, como Alanzoka, Yoda e Rakin. Os usuários podem pesquisar pelo nome dos influenciadores e visualizar informações detalhadas sobre eles, incluindo uma breve descrição e links para mais informações.
